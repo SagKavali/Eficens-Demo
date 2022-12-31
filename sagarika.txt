@@ -1,0 +1,177 @@
+    1  ls
+    2  ls -l
+    3  ls
+    4  mkdir sag
+    5  ls
+    6  ls -l
+    7  mkdir demo
+    8  ls
+    9  ls -l
+   10  cd sag
+   11  l
+   12  ls -1
+   13  ls -l
+   14  mkdir ka
+   15  cat demo
+   16  ls
+   17  mkdir app
+   18  ls
+   19  ls -l
+   20  cd app
+   21  ls
+   22  ls -l
+   23  ls
+   24  cd ../
+   25  ls
+   26  cd ../
+   27  ls
+   28  cd ../
+   29  ls
+   30  clear
+   31  kavalisagarika
+   32  ls
+   33  cd sag
+   34  ls
+   35  ls -l
+   36  cd ../
+   37  ls
+   38  pwd
+   39  ls
+   40  cd demo
+   41  ls
+   42  mkdir first_demo
+   43  ls
+   44  pwd
+   45  cd demo
+   46  cd ka
+   47  cd ../
+   48  ls
+   49  cd demo
+   50  ls
+   51  pwd
+   52  exit
+   53  ln -l
+   54  ln
+   55  ls -l
+   56  ssh riddhimhatre @192.168.64.2
+   57  exit
+   58  ls
+   59  -t
+   60  group
+   61  id -Gn
+   62  cd ../
+   63  ls
+   64  cd ../
+   65  ls
+   66  group
+   67  Group
+   68  id -Gn
+   69  chmod g-w 1.txt
+   70  ls -l 1.txt
+   71  exit
+   72  ls c[aeiou]t
+   73  find /user/sbin -name mkfs
+   74  ls
+   75  find demor/sbin -name mkfs
+   76  find demo/sbin -name mkfs
+   77  file name
+   78  create file game
+   79  sudo apt install <game>
+   80  sudo apt install <deb game>
+   81  sudo apt install "deb game"
+   82  find -type d -newer ~/Documents/cat
+   83  find -type d -newer ~/game
+   84  find game
+   85  exit
+   86  git --version
+   87  mkdir git
+   88  cd git
+   89  git init
+   90  git init demoit
+   91  ls
+   92  ll
+   93  cd demogit/
+   94  cd demogit
+   95  cd demoit
+   96  ls
+   97  ls -al
+   98  git status
+   99  ls -ltra
+  100  git status
+  101  vi Readme.md
+  102  git remote -v
+  103  git remote add origin https://github.com/SagKavali/Eficens-Demo.git
+  104  git remote -v
+  105  git push -u origin main --tags
+  106  git branch small
+  107  git checkout small
+  108  git commit -am "its my commit"
+  109  git checkout main
+  110  git checkout master
+  111  git commit -am "comflict commit"
+  112  git merge small
+  113  git push -u origin master --tags
+  114  git status
+  115  git hist
+  116  git bisect
+  117  git init
+  118  git clone https://github.com/SagKavali/Eficens-Demo.git
+  119  git status
+  120  git branch
+  121  git branch sagrika
+  122  git branch
+  123  git branch master
+  124  code app.log
+  125  git status
+  126  gitignore
+  127  code .gitignore
+  128  git status
+  129  git add .
+  130  . -m "adding gitignore file"
+  131  git commit . -m "adding gitignore file"
+  132  git commit . -am "adding gitignore file"
+  133  git commit . -m "adding gitignore file"
+  134  git config --global user.email "kavalisagarika"
+  135  git config --global user.name "sagarika"
+  136  Omit --global
+  137  deb git
+  138  git add.
+  139  git add .
+  140  git status
+  141  git reset HEAD Readme.md
+  142  git status
+  143  git add branch
+  144  git branch
+  145  git add . Sagrika
+  146  git status
+  147  git branch
+  148  git status
+  149  git log
+  150  git status
+  151  git add .
+  152  git status
+  153  git reset HEAD Readme.md
+  154  git status
+  155  git log
+  156  git show
+  157  git hist
+  158  git remote add origin https://github.com/SagKavali/Eficens-Demo.git
+  159  git remote -v
+  160  git remote add origin https://github.com/SagKavali/Eficens-Demo.git
+  161  git branch
+  162  git status
+  163  git branch
+  164  pwd
+  165  vi readme.md
+  166  git status
+  167  git log
+  168  git show
+  169  code newfile
+  170  rm newfile
+  171  git status
+  172  git commit -rm "fast track commit"
+  173  git commit -am "fast track commit"
+  174  git log
+  175  git hist
+  176  history
+  177  history > sagarika.txt
